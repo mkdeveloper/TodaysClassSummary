@@ -1,0 +1,5 @@
+# Files are removed, for practice purpose and to save time and bandwidth. 
+node_modules
+package.json
+package-lock.json
+tsconfig.json
