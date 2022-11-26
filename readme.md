@@ -16,4 +16,6 @@
 11. Goto Terminal in vscode.
 12. npm install inquirer. //Will be use to prompt user.
 13. npm i @types/inquirer -D //Inquirer will be available to be use in TypeScript.
-14. import inquirer from "inquirer"; //Using inquirer library
+
+The rest code can bee seen in this repo "app.ts" file.
+Thanks for reading.
