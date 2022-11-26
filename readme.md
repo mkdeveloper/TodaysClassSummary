@@ -11,7 +11,7 @@
 **Note: Line number can be vary**
 
 8. On line no. 14 >>> change "target": "es2016" to "target": "es2022".
-9. On line no. 28 >>> change "module": "commonjs" to "target": "NodeNext".
+9. On line no. 28 >>> change "module": "commonjs" to "module": "NodeNext".
 10. On line no. 30 >>> change "moduleResolution": "node" to "moduleResolution": "NodeNext".
 11. Goto Terminal in vscode.
 12. npm install inquirer. //Will be use to prompt user.
